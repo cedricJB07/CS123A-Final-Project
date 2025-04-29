@@ -17,6 +17,6 @@ Sequence Alignment Using Needleman Wunsch Algorithm to Study Microgravity Effect
 3. Open that folder in Files and locate the "-fastq.gz" files you need
 4. Unzip them in your Files by clicking on them
 5. This would turn your -fastq.gz file into a -fastq file
-6. "cd /.." your way to the unzipped folder
+6. Open Terminal and then "cd /.." your way to the unzipped folder
 7. "ls" to make sure the folder contains the GLDS-621_rna-seq_Bulk_072022_1G_R1_raw.fastq and GLDS-621_rna-seq_Bulk_072022_uG_R1_raw.fastq files (not the same as .gz) as well. 
 8. Run "python3 needleman.py" in the terminal
